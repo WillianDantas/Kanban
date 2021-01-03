@@ -42,5 +42,22 @@ Obs: Kanban é metodo de entregar valor rápido aos clientes atrves de fluxo con
 
 Observação : Só aceita entrada de outro cartão quando sai um cartão do fluxo de trabalho.
 
+# Diferenças do Kanban de outros modelos ágeis
+
+1. O <b>principal limite é o WIP</b> que indica quando o trabalho pode andar.
+
+2. <b>É mais aberto quanto a adaptação</b> quanto mais o time aprende mais pode adaptar o quadro a sua realidade.
+
+# Porque começar com Kanban ?
+
+1. <b>Fluxo contínuo, melhor agilidade.</b>
+
+2. Mudança evolutiva, <b> menor resistência </b>
+
+3. Melhor <b>previsibilidade</b>
+	- Controle das variáveis
+	-Ritmo contínuio
+4. Melhor <b> gerenciamento de risco. </b>
+
 
 
