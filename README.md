@@ -59,5 +59,13 @@ Observação : Só aceita entrada de outro cartão quando sai um cartão do flux
 	-Ritmo contínuio
 4. Melhor <b> gerenciamento de risco. </b>
 
+# Como começar a usar Kanban ?
+
+1. Comece de <b>onde você está.</b>
+
+2. Concorde em melhorar <b>incrementalmente.</b>
+
+3. Encoraje atos de liderança e inicialmente <p>respeite papéis, responsabilidades e descrição de cargos.</p>
+
 
 
