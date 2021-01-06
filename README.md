@@ -67,5 +67,45 @@ Observação : Só aceita entrada de outro cartão quando sai um cartão do flux
 
 3. Encoraje atos de liderança e inicialmente <p>respeite papéis, responsabilidades e descrição de cargos.</p>
 
+# Principais desafios do time da Fitfast
+
+<li>Nossas estimativas frequentemente estão erradas.</li>
+<li>Nosso time está atolado de trabalho.</li>
+<li>O trabalho chega ao time por várias fontes.</li>
+
+# Kanban primeiros passos - Visualizar o  fluxo de trabalho (Desenvolvedor)
+
+<b>Vantagens</b>
+
+<li>Fazer o trabalho que está <b>"escondido"</b> aparecer. </li>
+<li> Tornar o trabalho visível faz com que a informação esteja <b>disponível para todos os interessados.</b> </li>
+
+<li> Ajuda você a ver : </li>
+- <b>Quem</b> está fazendo o que.
+- <b>O que</b>  você está fazendo.
+- <b>A quantidade</b> de trabalho em que o time está envolvido.
+
+# Mapeando o Fluxo
+
+1. Para Fazer 
+2. Análise
+3. Em Andamento
+4. Teste
+5. Aprovado
+6. Em produção 
+
+# Kanban primeiros passos - Mapear o fluxo
+
+<b>Vantagens</b>
+
+<li>Identificar <b>todos os estágios</b> do trabalho, do inicio até o trabalho deixar o time</li>.
+<li>Não busque perfeição, <b>inspecione e adapte</b></li>.
+<li>O trabalho não pode ser considerado completo enquanto não estiver <b>entregando valor para cliente</b></li>.
+
+
+
+
+
+
 
 
