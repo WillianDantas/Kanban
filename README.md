@@ -101,6 +101,94 @@ Observação : Só aceita entrada de outro cartão quando sai um cartão do flux
 <li>Identificar <b>todos os estágios</b> do trabalho, do inicio até o trabalho deixar o time</li>.
 <li>Não busque perfeição, <b>inspecione e adapte</b></li>.
 <li>O trabalho não pode ser considerado completo enquanto não estiver <b>entregando valor para cliente</b></li>.
+<li>Com um mapeamento visual do fluxo você vê:</li>
+--  O <b>status do trabalho</b>.
+
+-- Potenciais <b>problemas</b> como trabalho <b>não progredindo</b> e acumulando em um estágio.
+
+Obs: Descrição Breve  no  Cartão.
+
+# Como lidar com itens urgentes
+
+<b>O time cria uma política para definir o que é urgente</b>
+
+<li>Políticas sobre esta linha podem ser:</li>
+
+-- Apenas um item pode estar na linha por vez.
+-- Apenas um item pode ser "acelerado" por semana.
+-- Não contar o item urgente no limite do WIP.
+
+# kanban primeiros passos - linha para itens urgentes (Desevolvedor)
+
+<li>Maneira comun de lidar com casos especiais.</li>
+
+-- Como trabalho que é urgente, diferente de importante !
+
+<li>Frequentemente visualizada como <b>uma linha separada</b> no quadro.</li>
+
+# WIP (Work in Progress)
+
+Obs: Trabalhar em menos itens entrega valor mais rápido !
+
+# Kanban primeiros passos - limite de WIP
+
+<li><b>Pare de começar e comece a terminar!</b></li>
+<li>Limitar o WIP (work in progress) vai mostrar oporrtunidades de melhoria </b>
+-- Agir sobre estas oportunidades vai melhorar o fluxo do trabalho
+
+
+<li> Não existe um WIP "correto" para time.</li>
+
+<li>Um limite de WIP menor é geralmente melhor e como regra geral:</li>
+
+-- Limites muito ALTOS deixam trabalho parado.
+-- Limites muito Baixos deixam pessoas paradas sem trabalho.
+
+<li>Limites de WIP não são regras <b>são oportunidades para discussões</b>.</li>
+
+# Métricas - Lead time e cycle time
+
+<b>O tempo que  um item leva  do começo ao fim do fluxo.</b>
+
+<b> Analisar possíveis causas do Lead Tine elevado.</b>
+
+<li>Um problema de aplicação do sistema.</li>
+<li>Falha na especificação.</li>
+<li>Falta de testes.</li>
+
+<li>O que poderia ser feito para podermos reduzir nosso lead tima para a metade ?</li>
+
+# Cicle Time
+
+<b>Tempo que item fica em parte de processo.</b>
+<li>Problema de focar no cycle time  e quando melhora gargalo em apenas uma parte do processo, move-se gargalo para frente</li>
+
+# Throughput
+
+<b>O que o time termina por período de tempo.</b>
+
+# Como ele ajuda o time a melhorar ?
+
+<li>Ajuda o time a começar a ver média dos seus resultados e a <b>fazer previsões</b></li>
+<li>Ajuda a <b>planejar</b> prazos de entrega</li>
+<li>Importante sempre <b>monitorar o que é urgente</b> porque isso impacta o resultado</li>
+<li>Na dúvida foque em <b>Leadtime</b>, porque é o tempo que a sua entrega leva para <b>gerar valor para seu cliente</b></li>
+<li>A métrica deve ser escolhida pela <b>realidade de cada time</b></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
