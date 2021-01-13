@@ -175,6 +175,78 @@ Obs: Trabalhar em menos itens entrega valor mais rápido !
 <li>Na dúvida foque em <b>Leadtime</b>, porque é o tempo que a sua entrega leva para <b>gerar valor para seu cliente</b></li>
 <li>A métrica deve ser escolhida pela <b>realidade de cada time</b></li>
 
+# Políticas Explicitas
+
+<b>Reuniões  periódicas baseadas no quadros</b>
+<li>Diária, focada nos post-its, não nas pessoas, da <b>direita para esquerda.</b></li>
+
+<h1>Como auto ajustar ?</h1>
+
+<b>Focar no que "cheira mal" e nos desvios:</b>
+1. Todo o nosso trabalho está´no quadro ?
+2. Estamos trabalhando nas coisas certas ?
+3. Nós entendemos o nosso  trabalho ?
+
+<b>Como garantir que todos entendem como trabalhamos ?</b>
+<li> O quadro é <b>o grande comunicador</b></li>
+<li>As informações mais importantes precisam estar próximas dele de <b>maneira fácil de serem compreendidas</b></li>
+
+
+# Kanban não faz mágica, quem faz a mágica é o time
+
+1. o Kanban <b>expõe os problemas</b> no processo.
+2. Cabe ao time <b>abordar os problemas</b> para poder obter os benefícios do Kanban
+3. A magia está no time sempre estar se <b>auto ajustando</b> para poder estar <b>continuamente melhorando</b>
+
+<br/>
+
+<h1>Kanban primeiros passos - Deixar as políticas explícitas e melhoria colaborativa (Desenvolvedor)</h1>
+
+<b>Reuniões diárias:</b>
+
+<li>Focar a discussão no que está no quadro ao invés de focar nas pessoas</li>
+<li>Andar pelo quadro da direita para a esquerda</li>
+<li>Encorajar encontros espontâneos de melhoria depois das reuniões diárias</li>
+
+<b>Políticas explícitas</b>
+
+<p>Está claro para todos e exposto em local visível:</p>
+
+<li>quais são as regras do time</li>
+<li>quais são as métricas e o que elas significam</li>
+<li>quando são as reuniões e qum faz o que</li>
+
+
+# Os erros mais comuns no quadro Kanban 
+
+1. Andar contra o sentindo do quadro é proibido 
+2. Ter uma coluna para "on hold" ou bloqueado
+3. Não ter limite ou não respeitar o WIP
+4. Não mapear todos os itens de trabalho ou o post-it "fantasmas" 
+<br/>
+
+<h1>Não usar métricas de forma consistente ou relevante</h1>
+
+<li>Não deixar a métrica se imposta, o time precisa estar envolvido na decisão !</li>
+<li>ERRO COMUN: Punir o time caso resultado piore, premiar caso resultado melhore.</li>
+<li>Métrica não é para medir performance do time !</li>
+
+# Algumas diferenças entre Kanban e Scrum
+
+|   |  Kanban  |  Scrum  |
+| ------------ | ------------ | ------------ |
+|  <b>Delegação & Priorização</b>  |  Usa um "sistema puxado,"  que permite a membros do time a puxar mais trabalho <b>apenas se o trabalho corrente tiver sido terminado</b>   |  Também usa um "sistema puxado" entretanto <b> uma quantidade maior de itens é slecionada por sprint e já vem priorizado pelo gerente de produto.</b>   |
+| <b>Modificações / Mudanças</b>  | <b>Permite mudanças no meio do fluxo de trabalho, melhoria contínua </b>   |  <b>Mudanças</b>  durante as sprints são fortemente <b>desencorajadas.</b> |
+|  Métricas | Mede produtividade usando <b>lead time , cycle time, throughput <b></b>  |  Mede aprodutividade usando <b>velocidade</b> nas sprints |
+
+Observação : Kanban para time de manunteção ou operação.
+
+
+
+
+
+
+
 
 
 
